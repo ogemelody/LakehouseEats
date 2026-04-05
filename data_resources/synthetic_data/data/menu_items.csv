@@ -1,0 +1,146 @@
+restaurant_id,item_id,name,category,price,ingredients,is_vegetarian,spice_level
+REST-BER-001,ITEM-101,Leberknödelsuppe,Starter,9.61,"Liver Dumplings, Beef Broth, Chives",False,Mild
+REST-BER-001,ITEM-102,Obatzda mit Brezn,Starter,8.01,"Camembert, Butter, Paprika, Pretzel",True,Mild
+REST-BER-001,ITEM-103,Currywurst Snack,Starter,7.62,"Pork Sausage, Curry Ketchup, Paprika",False,Medium
+REST-BER-001,ITEM-104,Kartoffelsuppe,Starter,8.33,"Potato, Leek, Bacon, Cream",False,None
+REST-BER-001,ITEM-105,Flammkuchen,Starter,10.77,"Thin Dough, Crème Fraîche, Onion, Bacon",False,None
+REST-BER-001,ITEM-201,Käsespätzle,Main Course,14.12,"Egg Noodles, Emmental Cheese, Fried Onions",True,None
+REST-BER-001,ITEM-202,Gemüseschnitzel,Main Course,13.39,"Breaded Vegetables, Lemon, Potato Salad",True,None
+REST-BER-001,ITEM-203,Kartoffelknödel mit Pilzrahmsoße,Main Course,15.56,"Potato Dumplings, Mushroom Cream Sauce, Herbs",True,None
+REST-BER-001,ITEM-204,Laugenbrezel mit Obatzda & Salat,Main Course,12.17,"Pretzel, Camembert Spread, Mixed Salad",True,Mild
+REST-BER-001,ITEM-205,Reibekuchen mit Apfelmus,Main Course,11.83,"Potato Pancakes, Apple Sauce, Sour Cream",True,None
+REST-BER-001,ITEM-301,Schweinshaxe,Main Course,22.1,"Pork Knuckle, Dark Beer Sauce, Sauerkraut, Dumplings",False,Mild
+REST-BER-001,ITEM-302,Wiener Schnitzel,Main Course,19.31,"Veal, Breadcrumbs, Lemon, Parsley Potatoes",False,None
+REST-BER-001,ITEM-303,Sauerbraten,Main Course,19.96,"Marinated Beef, Gingersnap Gravy, Red Cabbage, Dumplings",False,Mild
+REST-BER-001,ITEM-304,Bratwurst mit Sauerkraut,Main Course,15.15,"Grilled Sausage, Sauerkraut, Mustard, Bread",False,Mild
+REST-BER-001,ITEM-305,Rinderroulade,Main Course,23.76,"Beef Roll, Bacon, Pickles, Mustard, Red Wine Gravy",False,None
+REST-BER-001,ITEM-401,Kartoffelsalat,Side,5.48,"Potato, Vinegar, Mustard, Herbs",True,None
+REST-BER-001,ITEM-402,Rotkohl,Side,4.69,"Red Cabbage, Apple, Vinegar, Cloves",True,None
+REST-BER-001,ITEM-403,Semmelknödel,Side,5.09,"Bread Dumplings, Egg, Milk, Parsley",True,None
+REST-BER-001,ITEM-404,Bratkartoffeln,Side,5.71,"Pan-Fried Potatoes, Onion, Bacon",False,None
+REST-BER-001,ITEM-405,Spätzle Butter,Side,5.49,"Egg Noodles, Butter, Parsley",True,None
+REST-BER-001,ITEM-406,Sauerkraut,Side,3.82,"Fermented Cabbage, Caraway Seeds, White Wine",True,None
+REST-BER-001,ITEM-501,Schwarzwälder Kirschtorte,Dessert,7.16,"Chocolate Sponge, Cherries, Whipped Cream, Kirsch",True,None
+REST-BER-001,ITEM-502,Apfelstrudel mit Vanillesoße,Dessert,7.0,"Puff Pastry, Apple, Raisins, Cinnamon, Vanilla Sauce",True,None
+REST-BER-001,ITEM-503,Rote Grütze mit Sahne,Dessert,6.67,"Mixed Red Berries, Starch, Sugar, Cream",True,None
+REST-BER-001,ITEM-504,Dampfnudel mit Vanillesoße,Dessert,7.85,"Steamed Dough Dumpling, Vanilla Sauce, Poppy Seeds",True,None
+REST-BER-001,ITEM-601,Hefeweizen (0.5L),Beverage,5.24,Wheat Beer,True,None
+REST-BER-001,ITEM-602,Märzen (0.5L),Beverage,5.35,Lager Beer,True,None
+REST-BER-001,ITEM-603,Apfelschorle,Beverage,3.47,"Apple Juice, Sparkling Water",True,None
+REST-BER-001,ITEM-604,Spezi,Beverage,3.33,"Cola, Orange Soda",True,None
+REST-BER-002,ITEM-101,Leberknödelsuppe,Starter,9.71,"Liver Dumplings, Beef Broth, Chives",False,Mild
+REST-BER-002,ITEM-102,Obatzda mit Brezn,Starter,7.66,"Camembert, Butter, Paprika, Pretzel",True,Mild
+REST-BER-002,ITEM-103,Currywurst Snack,Starter,7.36,"Pork Sausage, Curry Ketchup, Paprika",False,Medium
+REST-BER-002,ITEM-104,Kartoffelsuppe,Starter,8.34,"Potato, Leek, Bacon, Cream",False,None
+REST-BER-002,ITEM-105,Flammkuchen,Starter,11.5,"Thin Dough, Crème Fraîche, Onion, Bacon",False,None
+REST-BER-002,ITEM-201,Käsespätzle,Main Course,14.18,"Egg Noodles, Emmental Cheese, Fried Onions",True,None
+REST-BER-002,ITEM-202,Gemüseschnitzel,Main Course,13.26,"Breaded Vegetables, Lemon, Potato Salad",True,None
+REST-BER-002,ITEM-203,Kartoffelknödel mit Pilzrahmsoße,Main Course,14.39,"Potato Dumplings, Mushroom Cream Sauce, Herbs",True,None
+REST-BER-002,ITEM-204,Laugenbrezel mit Obatzda & Salat,Main Course,11.46,"Pretzel, Camembert Spread, Mixed Salad",True,Mild
+REST-BER-002,ITEM-205,Reibekuchen mit Apfelmus,Main Course,11.07,"Potato Pancakes, Apple Sauce, Sour Cream",True,None
+REST-BER-002,ITEM-301,Schweinshaxe,Main Course,23.49,"Pork Knuckle, Dark Beer Sauce, Sauerkraut, Dumplings",False,Mild
+REST-BER-002,ITEM-302,Wiener Schnitzel,Main Course,20.26,"Veal, Breadcrumbs, Lemon, Parsley Potatoes",False,None
+REST-BER-002,ITEM-303,Sauerbraten,Main Course,21.45,"Marinated Beef, Gingersnap Gravy, Red Cabbage, Dumplings",False,Mild
+REST-BER-002,ITEM-304,Bratwurst mit Sauerkraut,Main Course,14.03,"Grilled Sausage, Sauerkraut, Mustard, Bread",False,Mild
+REST-BER-002,ITEM-305,Rinderroulade,Main Course,23.74,"Beef Roll, Bacon, Pickles, Mustard, Red Wine Gravy",False,None
+REST-BER-002,ITEM-401,Kartoffelsalat,Side,5.52,"Potato, Vinegar, Mustard, Herbs",True,None
+REST-BER-002,ITEM-402,Rotkohl,Side,4.58,"Red Cabbage, Apple, Vinegar, Cloves",True,None
+REST-BER-002,ITEM-403,Semmelknödel,Side,4.86,"Bread Dumplings, Egg, Milk, Parsley",True,None
+REST-BER-002,ITEM-404,Bratkartoffeln,Side,6.29,"Pan-Fried Potatoes, Onion, Bacon",False,None
+REST-BER-002,ITEM-405,Spätzle Butter,Side,5.72,"Egg Noodles, Butter, Parsley",True,None
+REST-BER-002,ITEM-406,Sauerkraut,Side,4.0,"Fermented Cabbage, Caraway Seeds, White Wine",True,None
+REST-BER-002,ITEM-501,Schwarzwälder Kirschtorte,Dessert,7.21,"Chocolate Sponge, Cherries, Whipped Cream, Kirsch",True,None
+REST-BER-002,ITEM-502,Apfelstrudel mit Vanillesoße,Dessert,6.67,"Puff Pastry, Apple, Raisins, Cinnamon, Vanilla Sauce",True,None
+REST-BER-002,ITEM-503,Rote Grütze mit Sahne,Dessert,6.63,"Mixed Red Berries, Starch, Sugar, Cream",True,None
+REST-BER-002,ITEM-504,Dampfnudel mit Vanillesoße,Dessert,8.05,"Steamed Dough Dumpling, Vanilla Sauce, Poppy Seeds",True,None
+REST-BER-002,ITEM-601,Hefeweizen (0.5L),Beverage,5.45,Wheat Beer,True,None
+REST-BER-002,ITEM-602,Märzen (0.5L),Beverage,5.34,Lager Beer,True,None
+REST-BER-002,ITEM-603,Apfelschorle,Beverage,3.45,"Apple Juice, Sparkling Water",True,None
+REST-BER-002,ITEM-604,Spezi,Beverage,3.35,"Cola, Orange Soda",True,None
+REST-MUC-001,ITEM-101,Leberknödelsuppe,Starter,9.71,"Liver Dumplings, Beef Broth, Chives",False,Mild
+REST-MUC-001,ITEM-102,Obatzda mit Brezn,Starter,7.92,"Camembert, Butter, Paprika, Pretzel",True,Mild
+REST-MUC-001,ITEM-103,Currywurst Snack,Starter,7.86,"Pork Sausage, Curry Ketchup, Paprika",False,Medium
+REST-MUC-001,ITEM-104,Kartoffelsuppe,Starter,8.71,"Potato, Leek, Bacon, Cream",False,None
+REST-MUC-001,ITEM-105,Flammkuchen,Starter,10.46,"Thin Dough, Crème Fraîche, Onion, Bacon",False,None
+REST-MUC-001,ITEM-201,Käsespätzle,Main Course,14.43,"Egg Noodles, Emmental Cheese, Fried Onions",True,None
+REST-MUC-001,ITEM-202,Gemüseschnitzel,Main Course,12.36,"Breaded Vegetables, Lemon, Potato Salad",True,None
+REST-MUC-001,ITEM-203,Kartoffelknödel mit Pilzrahmsoße,Main Course,15.73,"Potato Dumplings, Mushroom Cream Sauce, Herbs",True,None
+REST-MUC-001,ITEM-204,Laugenbrezel mit Obatzda & Salat,Main Course,12.53,"Pretzel, Camembert Spread, Mixed Salad",True,Mild
+REST-MUC-001,ITEM-205,Reibekuchen mit Apfelmus,Main Course,11.32,"Potato Pancakes, Apple Sauce, Sour Cream",True,None
+REST-MUC-001,ITEM-301,Schweinshaxe,Main Course,21.95,"Pork Knuckle, Dark Beer Sauce, Sauerkraut, Dumplings",False,Mild
+REST-MUC-001,ITEM-302,Wiener Schnitzel,Main Course,20.82,"Veal, Breadcrumbs, Lemon, Parsley Potatoes",False,None
+REST-MUC-001,ITEM-303,Sauerbraten,Main Course,21.83,"Marinated Beef, Gingersnap Gravy, Red Cabbage, Dumplings",False,Mild
+REST-MUC-001,ITEM-304,Bratwurst mit Sauerkraut,Main Course,14.79,"Grilled Sausage, Sauerkraut, Mustard, Bread",False,Mild
+REST-MUC-001,ITEM-305,Rinderroulade,Main Course,23.61,"Beef Roll, Bacon, Pickles, Mustard, Red Wine Gravy",False,None
+REST-MUC-001,ITEM-401,Kartoffelsalat,Side,5.37,"Potato, Vinegar, Mustard, Herbs",True,None
+REST-MUC-001,ITEM-402,Rotkohl,Side,4.55,"Red Cabbage, Apple, Vinegar, Cloves",True,None
+REST-MUC-001,ITEM-403,Semmelknödel,Side,5.18,"Bread Dumplings, Egg, Milk, Parsley",True,None
+REST-MUC-001,ITEM-404,Bratkartoffeln,Side,5.94,"Pan-Fried Potatoes, Onion, Bacon",False,None
+REST-MUC-001,ITEM-405,Spätzle Butter,Side,5.72,"Egg Noodles, Butter, Parsley",True,None
+REST-MUC-001,ITEM-406,Sauerkraut,Side,3.95,"Fermented Cabbage, Caraway Seeds, White Wine",True,None
+REST-MUC-001,ITEM-501,Schwarzwälder Kirschtorte,Dessert,7.82,"Chocolate Sponge, Cherries, Whipped Cream, Kirsch",True,None
+REST-MUC-001,ITEM-502,Apfelstrudel mit Vanillesoße,Dessert,7.16,"Puff Pastry, Apple, Raisins, Cinnamon, Vanilla Sauce",True,None
+REST-MUC-001,ITEM-503,Rote Grütze mit Sahne,Dessert,6.26,"Mixed Red Berries, Starch, Sugar, Cream",True,None
+REST-MUC-001,ITEM-504,Dampfnudel mit Vanillesoße,Dessert,8.06,"Steamed Dough Dumpling, Vanilla Sauce, Poppy Seeds",True,None
+REST-MUC-001,ITEM-601,Hefeweizen (0.5L),Beverage,5.65,Wheat Beer,True,None
+REST-MUC-001,ITEM-602,Märzen (0.5L),Beverage,5.7,Lager Beer,True,None
+REST-MUC-001,ITEM-603,Apfelschorle,Beverage,3.43,"Apple Juice, Sparkling Water",True,None
+REST-MUC-001,ITEM-604,Spezi,Beverage,3.67,"Cola, Orange Soda",True,None
+REST-MUC-002,ITEM-101,Leberknödelsuppe,Starter,9.23,"Liver Dumplings, Beef Broth, Chives",False,Mild
+REST-MUC-002,ITEM-102,Obatzda mit Brezn,Starter,7.97,"Camembert, Butter, Paprika, Pretzel",True,Mild
+REST-MUC-002,ITEM-103,Currywurst Snack,Starter,7.46,"Pork Sausage, Curry Ketchup, Paprika",False,Medium
+REST-MUC-002,ITEM-104,Kartoffelsuppe,Starter,8.76,"Potato, Leek, Bacon, Cream",False,None
+REST-MUC-002,ITEM-105,Flammkuchen,Starter,11.12,"Thin Dough, Crème Fraîche, Onion, Bacon",False,None
+REST-MUC-002,ITEM-201,Käsespätzle,Main Course,14.19,"Egg Noodles, Emmental Cheese, Fried Onions",True,None
+REST-MUC-002,ITEM-202,Gemüseschnitzel,Main Course,12.67,"Breaded Vegetables, Lemon, Potato Salad",True,None
+REST-MUC-002,ITEM-203,Kartoffelknödel mit Pilzrahmsoße,Main Course,15.34,"Potato Dumplings, Mushroom Cream Sauce, Herbs",True,None
+REST-MUC-002,ITEM-204,Laugenbrezel mit Obatzda & Salat,Main Course,12.57,"Pretzel, Camembert Spread, Mixed Salad",True,Mild
+REST-MUC-002,ITEM-205,Reibekuchen mit Apfelmus,Main Course,11.8,"Potato Pancakes, Apple Sauce, Sour Cream",True,None
+REST-MUC-002,ITEM-301,Schweinshaxe,Main Course,21.5,"Pork Knuckle, Dark Beer Sauce, Sauerkraut, Dumplings",False,Mild
+REST-MUC-002,ITEM-302,Wiener Schnitzel,Main Course,20.65,"Veal, Breadcrumbs, Lemon, Parsley Potatoes",False,None
+REST-MUC-002,ITEM-303,Sauerbraten,Main Course,20.43,"Marinated Beef, Gingersnap Gravy, Red Cabbage, Dumplings",False,Mild
+REST-MUC-002,ITEM-304,Bratwurst mit Sauerkraut,Main Course,14.35,"Grilled Sausage, Sauerkraut, Mustard, Bread",False,Mild
+REST-MUC-002,ITEM-305,Rinderroulade,Main Course,23.52,"Beef Roll, Bacon, Pickles, Mustard, Red Wine Gravy",False,None
+REST-MUC-002,ITEM-401,Kartoffelsalat,Side,5.49,"Potato, Vinegar, Mustard, Herbs",True,None
+REST-MUC-002,ITEM-402,Rotkohl,Side,4.72,"Red Cabbage, Apple, Vinegar, Cloves",True,None
+REST-MUC-002,ITEM-403,Semmelknödel,Side,5.04,"Bread Dumplings, Egg, Milk, Parsley",True,None
+REST-MUC-002,ITEM-404,Bratkartoffeln,Side,5.93,"Pan-Fried Potatoes, Onion, Bacon",False,None
+REST-MUC-002,ITEM-405,Spätzle Butter,Side,5.75,"Egg Noodles, Butter, Parsley",True,None
+REST-MUC-002,ITEM-406,Sauerkraut,Side,4.16,"Fermented Cabbage, Caraway Seeds, White Wine",True,None
+REST-MUC-002,ITEM-501,Schwarzwälder Kirschtorte,Dessert,7.23,"Chocolate Sponge, Cherries, Whipped Cream, Kirsch",True,None
+REST-MUC-002,ITEM-502,Apfelstrudel mit Vanillesoße,Dessert,6.78,"Puff Pastry, Apple, Raisins, Cinnamon, Vanilla Sauce",True,None
+REST-MUC-002,ITEM-503,Rote Grütze mit Sahne,Dessert,6.4,"Mixed Red Berries, Starch, Sugar, Cream",True,None
+REST-MUC-002,ITEM-504,Dampfnudel mit Vanillesoße,Dessert,7.67,"Steamed Dough Dumpling, Vanilla Sauce, Poppy Seeds",True,None
+REST-MUC-002,ITEM-601,Hefeweizen (0.5L),Beverage,5.3,Wheat Beer,True,None
+REST-MUC-002,ITEM-602,Märzen (0.5L),Beverage,5.6,Lager Beer,True,None
+REST-MUC-002,ITEM-603,Apfelschorle,Beverage,3.33,"Apple Juice, Sparkling Water",True,None
+REST-MUC-002,ITEM-604,Spezi,Beverage,3.51,"Cola, Orange Soda",True,None
+REST-HAM-001,ITEM-101,Leberknödelsuppe,Starter,9.5,"Liver Dumplings, Beef Broth, Chives",False,Mild
+REST-HAM-001,ITEM-102,Obatzda mit Brezn,Starter,8.21,"Camembert, Butter, Paprika, Pretzel",True,Mild
+REST-HAM-001,ITEM-103,Currywurst Snack,Starter,7.28,"Pork Sausage, Curry Ketchup, Paprika",False,Medium
+REST-HAM-001,ITEM-104,Kartoffelsuppe,Starter,8.54,"Potato, Leek, Bacon, Cream",False,None
+REST-HAM-001,ITEM-105,Flammkuchen,Starter,11.34,"Thin Dough, Crème Fraîche, Onion, Bacon",False,None
+REST-HAM-001,ITEM-201,Käsespätzle,Main Course,14.88,"Egg Noodles, Emmental Cheese, Fried Onions",True,None
+REST-HAM-001,ITEM-202,Gemüseschnitzel,Main Course,13.63,"Breaded Vegetables, Lemon, Potato Salad",True,None
+REST-HAM-001,ITEM-203,Kartoffelknödel mit Pilzrahmsoße,Main Course,14.62,"Potato Dumplings, Mushroom Cream Sauce, Herbs",True,None
+REST-HAM-001,ITEM-204,Laugenbrezel mit Obatzda & Salat,Main Course,11.83,"Pretzel, Camembert Spread, Mixed Salad",True,Mild
+REST-HAM-001,ITEM-205,Reibekuchen mit Apfelmus,Main Course,11.73,"Potato Pancakes, Apple Sauce, Sour Cream",True,None
+REST-HAM-001,ITEM-301,Schweinshaxe,Main Course,21.86,"Pork Knuckle, Dark Beer Sauce, Sauerkraut, Dumplings",False,Mild
+REST-HAM-001,ITEM-302,Wiener Schnitzel,Main Course,19.73,"Veal, Breadcrumbs, Lemon, Parsley Potatoes",False,None
+REST-HAM-001,ITEM-303,Sauerbraten,Main Course,20.92,"Marinated Beef, Gingersnap Gravy, Red Cabbage, Dumplings",False,Mild
+REST-HAM-001,ITEM-304,Bratwurst mit Sauerkraut,Main Course,14.21,"Grilled Sausage, Sauerkraut, Mustard, Bread",False,Mild
+REST-HAM-001,ITEM-305,Rinderroulade,Main Course,23.4,"Beef Roll, Bacon, Pickles, Mustard, Red Wine Gravy",False,None
+REST-HAM-001,ITEM-401,Kartoffelsalat,Side,5.27,"Potato, Vinegar, Mustard, Herbs",True,None
+REST-HAM-001,ITEM-402,Rotkohl,Side,4.43,"Red Cabbage, Apple, Vinegar, Cloves",True,None
+REST-HAM-001,ITEM-403,Semmelknödel,Side,4.79,"Bread Dumplings, Egg, Milk, Parsley",True,None
+REST-HAM-001,ITEM-404,Bratkartoffeln,Side,5.9,"Pan-Fried Potatoes, Onion, Bacon",False,None
+REST-HAM-001,ITEM-405,Spätzle Butter,Side,5.66,"Egg Noodles, Butter, Parsley",True,None
+REST-HAM-001,ITEM-406,Sauerkraut,Side,3.82,"Fermented Cabbage, Caraway Seeds, White Wine",True,None
+REST-HAM-001,ITEM-501,Schwarzwälder Kirschtorte,Dessert,7.54,"Chocolate Sponge, Cherries, Whipped Cream, Kirsch",True,None
+REST-HAM-001,ITEM-502,Apfelstrudel mit Vanillesoße,Dessert,6.69,"Puff Pastry, Apple, Raisins, Cinnamon, Vanilla Sauce",True,None
+REST-HAM-001,ITEM-503,Rote Grütze mit Sahne,Dessert,6.33,"Mixed Red Berries, Starch, Sugar, Cream",True,None
+REST-HAM-001,ITEM-504,Dampfnudel mit Vanillesoße,Dessert,7.6,"Steamed Dough Dumpling, Vanilla Sauce, Poppy Seeds",True,None
+REST-HAM-001,ITEM-601,Hefeweizen (0.5L),Beverage,5.59,Wheat Beer,True,None
+REST-HAM-001,ITEM-602,Märzen (0.5L),Beverage,5.42,Lager Beer,True,None
+REST-HAM-001,ITEM-603,Apfelschorle,Beverage,3.38,"Apple Juice, Sparkling Water",True,None
+REST-HAM-001,ITEM-604,Spezi,Beverage,3.62,"Cola, Orange Soda",True,None
