@@ -1,0 +1,6 @@
+restaurant_id,name,city,country,address,opening_date,phone
+REST-BER-001,Zur Goldenen Gabel Downtown,Berlin,Germany,"Unter den Linden 12, Berlin",2023-01-15,+49-30-123-4567
+REST-BER-002,Zur Goldenen Gabel Mitte,Berlin,Germany,"Alexanderplatz 5, Berlin",2023-06-20,+49-30-234-5678
+REST-MUC-001,Zur Goldenen Gabel Marienplatz,Munich,Germany,"Marienplatz 8, Munich",2023-03-10,+49-89-345-6789
+REST-MUC-002,Zur Goldenen Gabel Schwabing,Munich,Germany,"Leopoldstrasse 45, Munich",2023-09-05,+49-89-456-7890
+REST-HAM-001,Zur Goldenen Gabel Hafencity,Hamburg,Germany,"Speicherstadt 3, Hamburg",2024-02-14,+49-40-567-8901
